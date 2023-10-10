@@ -1,6 +1,9 @@
+[![Size](https://img.shields.io/github/languages/code-size/kmgrime/turbo-fiesta)](https://github.com/kmgrime/turbo-fiesta)
+[![License](https://img.shields.io/github/license/kmgrime/turbo-fiesta)](https://github.com/kmgrime/turbo-fiesta/blob/main/LICENSE)
+
 # turbo-fiesta
 
-Playground for small python scripts
+Collection of small python scripts
 
 ## about
 
